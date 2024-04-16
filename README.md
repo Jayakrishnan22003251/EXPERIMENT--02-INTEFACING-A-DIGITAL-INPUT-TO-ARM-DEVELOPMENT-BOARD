@@ -1,4 +1,10 @@
-# EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
+
+```
+NAME : JAYAKRISHNAN L B L
+REG NO : 212222230052
+```
+
+# EXPERIMENT 02 - INTEFACING A DIGITAL INPUT TO ARM DEVELOPMENT BOARD
 ## Aim: 
 To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
 ## Components required: 
@@ -53,10 +59,7 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 
 ## STM 32 CUBE PROGRAM :
-```
-NAME : JAYAKRISHNAN L B L
-REGISTER NUMBER : 212222230052
-```
+
 ```
 #include "main.h"
 #include "stdio.h"
